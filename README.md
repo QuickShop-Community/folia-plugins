@@ -58,49 +58,49 @@ Contributions are welcome! How to contribute:
 ### Mapping & Visuals
 | Name | GitHub | Download | Support | Description |
 |---|---|---|---|---|
-| BlueMap | https://github.com/BlueMap-Minecraft/BlueMap | https://github.com/BlueMap-Minecraft/BlueMap/releases | ✅ | Interactive web map. |
-| Pl3xMap | https://github.com/granny/Pl3xMap | https://modrinth.com/plugin/pl3xmap/versions | ✅ | Lightweight web map. |
-| FancyHolograms | https://github.com/FancyMcPlugins/FancyHolograms | https://github.com/FancyMcPlugins/FancyHolograms/releases | ✅ | High-performance holograms. |
-| VoidWorldGenerator | https://github.com/HydrolienF/VoidWorldGenerator | https://github.com/HydrolienF/VoidWorldGenerator/releases | ✅ | Void world generator. |
+| BlueMap | [Github](https://github.com/BlueMap-Minecraft/BlueMap) | [Github Releases](https://github.com/BlueMap-Minecraft/BlueMap/releases) | ✅ | Interactive web map. |
+| Pl3xMap | [Github](https://github.com/granny/Pl3xMap) | [Modrinth](https://modrinth.com/plugin/pl3xmap/versions) | ✅ | Lightweight web map. |
+| FancyHolograms | [Github](https://github.com/FancyMcPlugins/FancyHolograms) | [Github Releases](https://github.com/FancyMcPlugins/FancyHolograms/releases) | ✅ | High-performance holograms. |
+| VoidWorldGenerator | [Github](https://github.com/HydrolienF/VoidWorldGenerator) | [Github Releases](https://github.com/HydrolienF/VoidWorldGenerator/releases) | ✅ | Void world generator. |
 
 ### Server Management
 | Name | GitHub | Download | Support | Description |
 |---|---|---|---|---|
-| Maintenance | https://github.com/kennytv/Maintenance | https://github.com/kennytv/Maintenance/releases | ✅ | Maintenance mode. |
-| ProtocolLib | https://github.com/dmulloy2/ProtocolLib | https://github.com/dmulloy2/ProtocolLib/releases | ✅ | Protocol hooks/dependency. |
-| DiscordSRV | https://github.com/DiscordSRV/DiscordSRV | https://github.com/DiscordSRV/DiscordSRV/releases | ✅ | Link Minecraft <-> Discord. |
-| Chunky | https://github.com/pop4959/Chunky | https://modrinth.com/plugin/chunky/versions?l=folia | ✅ | Pregenerate chunks. |
-| Worlds | https://github.com/TheNextLvl-net/worlds/tree/folia | https://github.com/TheNextLvl-net/worlds/tree/folia | ✅ | World management. |
+| Maintenance | [Github](https://github.com/kennytv/Maintenance) | [Github Releases](https://github.com/kennytv/Maintenance/releases) | ✅ | Maintenance mode. |
+| ProtocolLib | [Github](https://github.com/dmulloy2/ProtocolLib) | [Github Releases](https://github.com/dmulloy2/ProtocolLib/releases) | ✅ | Protocol hooks/dependency. |
+| DiscordSRV | [Github](https://github.com/DiscordSRV/DiscordSRV) | [Github Releases](https://github.com/DiscordSRV/DiscordSRV/releases) | ✅ | Link Minecraft <-> Discord. |
+| Chunky | [Github](https://github.com/pop4959/Chunky) | [Modrinth](https://modrinth.com/plugin/chunky/versions?l=folia) | ✅ | Pregenerate chunks. |
+| Worlds | [Github](https://github.com/TheNextLvl-net/worlds/tree/folia) | [Github](https://github.com/TheNextLvl-net/worlds/tree/folia) | ✅ | World management. |
 
 ### GUI & UX
 | Name | GitHub | Download | Support | Description |
 |---|---|---|---|---|
-| BetterGUI | https://github.com/BetterGUI-MC/BetterGUI | https://github.com/BetterGUI-MC/BetterGUI/releases | ✅ | Custom GUIs. |
-| AdvancedServerList | https://github.com/Andre601/AdvancedServerList | https://modrinth.com/plugin/advancedserverlist | ✅ | Server MOTD management. |
-| MiniPlaceholders | https://github.com/MiniPlaceholders/MiniPlaceholders | https://modrinth.com/plugin/miniplaceholders/versions | ✅ | Optimized placeholders. |
+| BetterGUI | [Github](https://github.com/BetterGUI-MC/BetterGUI) | [Github Releases](https://github.com/BetterGUI-MC/BetterGUI/releases) | ✅ | Custom GUIs. |
+| AdvancedServerList | [Github](https://github.com/Andre601/AdvancedServerList) | [Modrinth](https://modrinth.com/plugin/advancedserverlist) | ✅ | Server MOTD management. |
+| MiniPlaceholders | [Github](https://github.com/MiniPlaceholders/MiniPlaceholders) | [Modrinth](https://modrinth.com/plugin/miniplaceholders/versions) | ✅ | Optimized placeholders. |
 
 ---
 
 ## Economy
 | Name | GitHub | Download | Support | Description |
 |---|---|---|---|---|
-| TheNewEconomy | https://github.com/TheNewEconomy/EconomyCore | https://modrinth.com/plugin/tne/versions | ✅ | Multi-currency economy. |
-| VaultUnlocked | https://github.com/TheNewEconomy/VaultUnlocked | https://modrinth.com/plugin/vaultunlocked/versions | 🧪 | Drop-in Vault replacement. |
-| Vault-Folia | https://github.com/SirBlobman/Vault-Folia | https://github.com/SirBlobman/Vault-Folia/releases | 🧪 | Folia-ready Vault fork. |
-| ChestShop 3 | https://github.com/ChestShop-authors/ChestShop-3 | https://www.spigotmc.org/resources/chestshop.51856/ | ✅ | Chest shops. |
-| Jobs Reborn | https://github.com/Zrips/Jobs | https://www.spigotmc.org/resources/jobs-reborn.4216/ | ✅ | Earn via jobs. |
-| LushRewards | https://github.com/OakLoaf/LushRewards | https://www.spigotmc.org/resources/107545/ | ✅ | Daily/playtime rewards. |
+| TheNewEconomy | [Github](https://github.com/TheNewEconomy/EconomyCore) | [Modrinth](https://modrinth.com/plugin/tne/versions) | ✅ | Multi-currency economy. |
+| VaultUnlocked | [Github](https://github.com/TheNewEconomy/VaultUnlocked) | [Modrinth](https://modrinth.com/plugin/vaultunlocked/versions) | 🧪 | Drop-in Vault replacement. |
+| Vault-Folia | [Github](https://github.com/SirBlobman/Vault-Folia) | [Github Releases](https://github.com/SirBlobman/Vault-Folia/releases) | 🧪 | Folia-ready Vault fork. |
+| ChestShop 3 | [Github](https://github.com/ChestShop-authors/ChestShop-3) | [Spigot](https://www.spigotmc.org/resources/chestshop.51856/) | ✅ | Chest shops. |
+| Jobs Reborn | [Github](https://github.com/Zrips/Jobs) | [Spigot](https://www.spigotmc.org/resources/jobs-reborn.4216/) | ✅ | Earn via jobs. |
+| LushRewards | [Github](https://github.com/OakLoaf/LushRewards) | [Spigot](https://www.spigotmc.org/resources/107545/) | ✅ | Daily/playtime rewards. |
 
 ---
 
 ## Anti-Cheat & Moderation
 | Name | GitHub | Download | Support | Description |
 |---|---|---|---|---|
-| Grim | https://github.com/GrimAnticheat/Grim | https://www.spigotmc.org/resources/grim-anticheat.99923/ | ✅ | Modern anticheat. |
-| NoCheatPlus (Updated) | https://github.com/Updated-NoCheatPlus/NoCheatPlus | https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/ | ✅ | Classic anticheat, updated. |
-| Matrix | (closed source) | https://builtbybit.com/resources/13999/ | ✅ | Premium anticheat. |
-| InvSee++ | https://github.com/Jannyboy11/InvSee-plus-plus | https://github.com/Jannyboy11/InvSee-plus-plus/releases | ✅ | Inspect inventories. |
-| Freeze | https://github.com/SirBlobman/Freeze | https://www.spigotmc.org/resources/freeze.31822/ | ✅ | Freeze players. |
+| Grim | [Github](https://github.com/GrimAnticheat/Grim) | [Spigot](https://www.spigotmc.org/resources/grim-anticheat.99923/) | ✅ | Modern anticheat. |
+| NoCheatPlus (Updated) | [Github](https://github.com/Updated-NoCheatPlus/NoCheatPlus) | [CI/Dev Builds](https://ci.codemc.io/job/Updated-NoCheatPlus/job/Updated-NoCheatPlus/) | ✅ | Classic anticheat, updated. |
+| Matrix | (closed source) | [Spigot](https://builtbybit.com/resources/13999/) | ✅ | Premium anticheat. |
+| InvSee++ | [Github](https://github.com/Jannyboy11/InvSee-plus-plus) | [Github Releases](https://github.com/Jannyboy11/InvSee-plus-plus/releases) | ✅ | Inspect inventories. |
+| Freeze | [Github](https://github.com/SirBlobman/Freeze) | [Spigot](https://www.spigotmc.org/resources/freeze.31822/) | ✅ | Freeze players. |
 
 ---
 
@@ -109,48 +109,49 @@ Contributions are welcome! How to contribute:
 ### Land & Claims
 | Name | GitHub | Download | Support | Description |
 |---|---|---|---|---|
-| Towny | https://github.com/TownyAdvanced/Towny | https://github.com/TownyAdvanced/Towny/releases/ | ✅ | Town-based protection. |
-| SimpleClaimSystem | https://github.com/Xyness/SimpleClaimSystem | https://www.spigotmc.org/resources/115568/ | ✅ | Simple land claims. |
-| Residence | https://github.com/Zrips/Residence | https://www.spigotmc.org/resources/11480/ | ✅ | Land protection. |
-| GriefPrevention-Folia | https://github.com/ssquadteam/GriefPrevention-Folia | https://github.com/ssquadteam/GriefPrevention-Folia/releases | 🧪 | GP fork for Folia. |
+| Towny | [Github](https://github.com/TownyAdvanced/Towny) | [Github Releases](https://github.com/TownyAdvanced/Towny/releases/) | ✅ | Town-based protection. |
+| SimpleClaimSystem | [Github](https://github.com/Xyness/SimpleClaimSystem) | [Spigot](https://www.spigotmc.org/resources/115568/) | ✅ | Simple land claims. |
+| Residence | [Github](https://github.com/Zrips/Residence) | [Spigot](https://www.spigotmc.org/resources/11480/) | ✅ | Land protection. |
+| GriefPrevention-Folia | [Github](https://github.com/ssquadteam/GriefPrevention-Folia) | [Github Releases](https://github.com/ssquadteam/GriefPrevention-Folia/releases) | 🧪 | GP fork for Folia. |
 
 ### Gameplay Enhancements
 | Name | GitHub | Download | Support | Description |
 |---|---|---|---|---|
-| mcMMO | https://github.com/mcMMO-Dev/mcMMO | https://www.spigotmc.org/resources/64348/ | ✅ | MMO-style skills. |
-| CoreProtect | https://github.com/PlayPro/CoreProtect/ | https://modrinth.com/plugin/coreprotect/versions?l=folia | ✅ | Logging/rollback. |
-| BetterRTP | https://github.com/RonanPlugins/BetterRTP | https://www.spigotmc.org/resources/36081/ | ✅ | Random teleport. |
-| CombatLogX | https://github.com/SirBlobman/CombatLogX | https://www.spigotmc.org/resources/31689/ | ✅ | Combat logging rules. |
-| HuskHomes 2 | https://github.com/WiIIiam278/HuskHomes2 | https://www.spigotmc.org/resources/83767/ | ✅ | Homes & warps. |
-| GSit | https://github.com/Gecolay/GSit | https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-16-1-21-8.62325/ | ✅ | Sit/lay/crawl. |
+| mcMMO | [Github](https://github.com/mcMMO-Dev/mcMMO) | [Spigot](https://www.spigotmc.org/resources/64348/) | ✅ | MMO-style skills. |
+| CoreProtect | [Github](https://github.com/PlayPro/CoreProtect/) | [Modrinth](https://modrinth.com/plugin/coreprotect/versions?l=folia) | ✅ | Logging/rollback. |
+| BetterRTP | [Github](https://github.com/RonanPlugins/BetterRTP) | [Spigot](https://www.spigotmc.org/resources/36081/) | ✅ | Random teleport. |
+| CombatLogX | [Github](https://github.com/SirBlobman/CombatLogX) | [Spigot](https://www.spigotmc.org/resources/31689/) | ✅ | Combat logging rules. |
+| HuskHomes 2 | [Github](https://github.com/WiIIiam278/HuskHomes2) | [Spigot](https://www.spigotmc.org/resources/83767/) | ✅ | Homes & warps. |
+| GSit | [Github](https://github.com/Gecolay/GSit) | [Spigot](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-16-1-21-8.62325/) | ✅ | Sit/lay/crawl. |
 
 ---
 
 ## Chat & Communication
 | Name | GitHub | Download | Support | Description |
 |---|---|---|---|---|
-| DiscordSRV | https://github.com/DiscordSRV/DiscordSRV | https://github.com/DiscordSRV/DiscordSRV/releases | ✅ | MC <-> Discord bridge. |
-| FreedomChat | https://github.com/e-im/FreedomChat | https://modrinth.com/plugin/freedomchat | ✅ | Chat signing avoidance. |
-| AnnouncerPlus | https://github.com/jpenilla/AnnouncerPlus | https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/ | ✅ | Auto broadcasts (chat/title/bossbar). |
-| CleanStaffChat | https://github.com/frafol/CleanStaffChat/ | https://www.spigotmc.org/resources/105220/ | ✅ | Staff chat. |
+| DiscordSRV | [Github](https://github.com/DiscordSRV/DiscordSRV) | [Github Releases](https://github.com/DiscordSRV/DiscordSRV/releases) | ✅ | MC <-> Discord bridge. |
+| FreedomChat | [Github](https://github.com/e-im/FreedomChat) | [Modrinth](https://modrinth.com/plugin/freedomchat) | ✅ | Chat signing avoidance. |
+| AnnouncerPlus | [Github](https://github.com/jpenilla/AnnouncerPlus) | [Spigot](https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/) | ✅ | Auto broadcasts (chat/title/bossbar). |
+| CleanStaffChat | [Github](https://github.com/frafol/CleanStaffChat/) | [Spigot](https://www.spigotmc.org/resources/105220/) | ✅ | Staff chat. |
 
 ---
 
 ## Security
 | Name | GitHub | Download | Support | Description |
 |---|---|---|---|---|
-| AuthMeVelocity | https://github.com/4drian3d/AuthMeVelocity | https://modrinth.com/plugin/authmevelocity/versions | ✅ | Extra security w/ AuthMe. |
-| UltimateServerProtector | https://github.com/Overwrite987/UltimateServerProtector | https://modrinth.com/plugin/ultimateserverprotector | ✅ | Admin/operator hardening. |
+| AuthMeVelocity | [Github](https://github.com/4drian3d/AuthMeVelocity) | [Modrinth](https://modrinth.com/plugin/authmevelocity/versions) | ✅ | Extra security w/ AuthMe. |
+| UltimateServerProtector | [Github](https://github.com/Overwrite987/UltimateServerProtector) | [Modrinth](https://modrinth.com/plugin/ultimateserverprotector) | ✅ | Admin/operator hardening. |
 
 ---
 
 ## Optimisation
 | Name | GitHub | Download | Support | Description |
 |---|---|---|---|---|
-| Kryptonite | https://github.com/lewmc/kryptonite | https://modrinth.com/plugin/kryptonite/versions | ✅ | Anti-lag toolkit for Folia. |
-| FarmControl | https://github.com/froobynooby/FarmControl/ | https://modrinth.com/plugin/farmcontrol | ✅ | Mob/crop control. |
-| Panilla | https://github.com/ds58/Panilla | https://github.com/ds58/Panilla/releases | ✅ | Strip hacked/huge NBT items. |
-| LaggRemoverRemastered | https://github.com/RIvance/LaggRemoverRemastered | https://github.com/RIvance/LaggRemoverRemastered/releases | ✅ | General lag control. |
+| Kryptonite | [Github](https://github.com/lewmc/kryptonite) | [Modrinth](https://modrinth.com/plugin/kryptonite/versions) | ✅ | Anti-lag toolkit for Folia. |
+| FarmControl | [Github](https://github.com/froobynooby/FarmControl/) | [Modrinth](https://modrinth.com/plugin/farmcontrol) | ✅ | Mob/crop control. |
+| Panilla | [Github](https://github.com/ds58/Panilla) | [Github Releases](https://github.com/ds58/Panilla/releases) | ✅ | Strip hacked/huge NBT items. |
+| LaggRemoverRemastered | [Github](https://github.com/RIvance/LaggRemoverRemastered) | [Github Releases](https://github.com/RIvance/LaggRemoverRemastered/releases) | ✅ | General lag control. |
+
 
 ---
 
