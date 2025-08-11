@@ -159,7 +159,7 @@ Contributions are welcome! How to contribute:
 Projects actively developing Folia support (no official stable yet):
 - EssentialsX - https://github.com/EssentialsX/Essentials/tree/refactor/folia
 - LuckPerms - https://github.com/LuckPerms/LuckPerms/pull/3615
-- PlaceholderAPI - https://github.com/PlaceholderAPI/PlaceholderAPI/tree/feature/folia-support
+- PlaceholderAPI - https://github.com/PlaceholderAPI/PlaceholderAPI/tree/master (Awaiting Release)
 - FastAsyncWorldEdit - https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/2309
 - PlotSquared - https://github.com/IntellectualSites/PlotSquared/pull/4009
 - Spark - https://github.com/lucko/spark/tree/feat/folia
@@ -180,6 +180,7 @@ Projects actively developing Folia support (no official stable yet):
 
 ## More Folia Plugins
 - Modrinth search (Folia tag): https://modrinth.com/plugins?g=categories:%27folia%27
+- Hangar search (Folia tag): https://hangar.papermc.io/?tag=SUPPORTS_FOLIA
 
 ## Folia Servers
 _Add yours via PR, or open an issue._
